@@ -1,11 +1,12 @@
 package principal;
 
 //Look and Feel
+import DAO.DAOUsuariosImpl;
 import com.formdev.flatlaf.intellijthemes.materialthemeuilite.FlatMaterialDarkerContrastIJTheme;
 
 //Proyecto
 import vistas.Login;
-import interfaces.DAOUsuarios;
+import DAO.DAOUsuarios;
 
 //Excepciones
 import java.sql.SQLException;

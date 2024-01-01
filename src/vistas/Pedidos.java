@@ -6,10 +6,10 @@ import com.itextpdf.text.pdf.*;
 import java.io.FileOutputStream;
 
 //Proyecto
-import principal.DAOPedidosImpl;
+import DAO.DAOPedidosImpl;
 import principal.BaseDeDatos;
 import principal.Utilidades;
-import interfaces.DAOPedidos;
+import DAO.DAOPedidos;
 
 //Excepciones
 import java.sql.SQLException;

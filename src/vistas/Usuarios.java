@@ -1,8 +1,8 @@
 package vistas;
 
 //Proyecto
-import principal.DAOUsuariosImpl;
-import interfaces.DAOUsuarios;
+import DAO.DAOUsuariosImpl;
+import DAO.DAOUsuarios;
 
 //Excepciones
 import java.sql.SQLException;

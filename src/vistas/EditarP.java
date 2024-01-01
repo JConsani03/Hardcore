@@ -1,9 +1,9 @@
 package vistas;
 
 //Proyecto
-import principal.DAOPedidosImpl;
+import DAO.DAOPedidosImpl;
 import principal.BaseDeDatos;
-import interfaces.DAOPedidos;
+import DAO.DAOPedidos;
 import principal.Utilidades;
 
 //Excepciones

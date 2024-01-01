@@ -1,8 +1,8 @@
-package principal;
+package DAO;
 
 //Proyecto
 import bd.Conector;
-import interfaces.DAOUsuarios;
+import DAO.DAOUsuarios;
 import modelos.Usuarios;
 
 //SQL

@@ -1,10 +1,11 @@
 package principal;
 
 //Look and Feel
+import DAO.DAOPedidosImpl;
 import com.formdev.flatlaf.intellijthemes.materialthemeuilite.FlatMaterialDarkerContrastIJTheme;
 
 //Proyecto
-import interfaces.DAOPedidos;
+import DAO.DAOPedidos;
 import vistas.Bebidas;
 import vistas.Hamburguesas;
 import vistas.ShareIt;

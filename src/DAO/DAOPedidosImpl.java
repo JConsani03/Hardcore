@@ -1,7 +1,7 @@
-package principal;
+package DAO;
 
 //Proyecto
-import interfaces.DAOPedidos;
+import DAO.DAOPedidos;
 import bd.Conector;
 import modelos.Pedidos;
 
