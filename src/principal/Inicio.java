@@ -97,6 +97,7 @@ public class Inicio extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Inicio");
         setIconImage(getIconImage());
+        setResizable(false);
 
         panel_BG.setBackground(new java.awt.Color(8, 5, 4));
         panel_BG.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
